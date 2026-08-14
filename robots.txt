@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-e2rnlr.salamkita.sbs/sitemap.xml
